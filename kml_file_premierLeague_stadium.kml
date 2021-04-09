@@ -1,0 +1,123 @@
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="stylename"><IconStyle><scale>2.5</scale><Icon><href>https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/180px-Arsenal_FC.svg.png</href></Icon></IconStyle><LabelStyle><color>ff80ccff</color><scale>2</scale></LabelStyle><BalloonStyle><text>$[description]</text></BalloonStyle><LineStyle><color>bf00aaff</color><width>5</width></LineStyle></Style><Style id="stylename2"><IconStyle><scale>2.5</scale><Icon><href>../img/</href></Icon></IconStyle><LabelStyle><color>ff80ccff</color><scale>4</scale></LabelStyle><LineStyle><color>FFFF0000</color><gx:outerColor>FF4CBB17</gx:outerColor><gx:physicalWidth>25000</gx:physicalWidth><gx:outerWidth>0.40</gx:outerWidth></LineStyle></Style><gx:Tour><name>Stadium Tour</name><gx:Playlist><gx:FlyTo><gx:duration>6.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>EMIRATES STADIUM</name><range>800</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Emirates_Stadium"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>10.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Emirates_Stadium"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.8</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.108611111</longitude><latitude>51.555</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>600</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait></gx:Playlist></gx:Tour><Folder id="features"><name>Features</name><Style><ListStyle><listItemType>checkHideChildren</listItemType></ListStyle></Style><Placemark id="Emirates_Stadium"><name>EMIRATES STADIUM</name><description>&lt;body style="width:450px; heoght:300px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+  &lt;tr&gt; 
+    &lt;td colspan='3' align='center'&gt; 
+      &lt;h1&gt;&lt;font size='6' color='#ffffff'&gt;EMIRATES STADIUM&lt;/font&gt;&lt;/h1&gt; 
+    &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+    &lt;td bgcolor='#A4A4A4' colspan='3' align='center'&gt; 
+      &lt;img src='../img/stadiums/EmiratesStadium.jpg' alt='picture' width='340' height='200' /&gt; 
+    &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt;&lt;/tr&gt; 
+  &lt;tr&gt; 
+    &lt;td colspan='2'&gt; 
+      &lt;font size='4'&gt;&lt;b&gt;Football club name: &lt;/b&gt;&lt;/font&gt; 
+      &lt;font size='5'&gt;Arsenal Football Club&lt;/font&gt; 
+    &lt;/td&gt; 
+    &lt;td colspan='2' align='center'&gt; 
+      &lt;img src='https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/180px-Arsenal_FC.svg.png' alt='picture' width='50' height='50' /&gt; 
+    &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+    &lt;td colspan='3'&gt; 
+      &lt;font size='4'&gt;&lt;b&gt;Club founded in &lt;/b&gt;&lt;/font&gt; 
+      &lt;font size='5'&gt;1886&lt;/font&gt; 
+    &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+    &lt;td colspan='3'&gt; 
+      &lt;font size='4'&gt;&lt;b&gt;Manager: &lt;/b&gt;&lt;/font&gt; 
+      &lt;font size='5'&gt;Arsène Wenger&lt;/font&gt; 
+    &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+    &lt;td colspan='3'&gt; 
+      &lt;font size='4'&gt;&lt;b&gt;City: &lt;/b&gt;&lt;/font&gt; 
+      &lt;font size='5'&gt;London&lt;/font&gt; 
+    &lt;/td&gt; 
+  &lt;/tr&gt; 
+  &lt;tr&gt; 
+    &lt;td colspan='3'&gt; 
+      &lt;font size='4'&gt;&lt;b&gt;Stadium capacity: &lt;/b&gt;&lt;/font&gt; 
+      &lt;font size='5'&gt;60338&lt;/font&gt; &lt;font size='4'&gt; people&lt;/font&gt; 
+    &lt;/td&gt; 
+  &lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-0.108611111,51.555,50</coordinates></Point></Placemark></Folder></Document></kml>

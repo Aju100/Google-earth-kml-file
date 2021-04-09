@@ -1,0 +1,1131 @@
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="stylename"><IconStyle><scale>2.5</scale><Icon><href>../img/airport.png</href></Icon></IconStyle><LabelStyle><color>ff80ccff</color><scale>2</scale></LabelStyle><BalloonStyle><text>$[description]</text></BalloonStyle><LineStyle><color>bf00aaff</color><width>5</width></LineStyle></Style><Style id="stylename2"><IconStyle><scale>2.5</scale><Icon><href>../img/</href></Icon></IconStyle><LabelStyle><color>ff80ccff</color><scale>4</scale></LabelStyle><LineStyle><color>FFFF0000</color><gx:outerColor>FF4CBB17</gx:outerColor><gx:physicalWidth>25000</gx:physicalWidth><gx:outerWidth>0.40</gx:outerWidth></LineStyle></Style><gx:Tour><name>Spanish Airports Tour</name><gx:Playlist><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>BARCELONA</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Barcelona"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Barcelona"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>2.078333</longitude><latitude>41.296944</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>ALMERÍA</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Almería"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Almería"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-2.37</longitude><latitude>36.843888888</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>MALLORCA</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Mallorca"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Mallorca"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>2.738808333</longitude><latitude>39.551675</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>MÁLAGA</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Málaga"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Málaga"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-4.499167</longitude><latitude>36.675</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>TENERIFE</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Tenerife"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Tenerife"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-16.5725</longitude><latitude>28.044444444</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>ALICANTE</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Alicante"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Alicante"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-0.558055555</longitude><latitude>38.282222222</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>TENERIFE</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Tenerife"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Tenerife"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-16.345913888</longitude><latitude>28.488047222</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>GRAN CANARIA</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Gran_Canaria"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Gran_Canaria"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-15.386666666</longitude><latitude>27.931944444</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>SEVILLA</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Sevilla"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Sevilla"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-5.898889</longitude><latitude>37.418056</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>3.0</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>9.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><name>LANZAROTE</name><range>7500</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:AnimatedUpdate><gx:duration>1.0</gx:duration><Update><targetHref/><Change><Placemark targetId="Lanzarote"><visibility>1</visibility><gx:balloonVisibility>1</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:Wait><gx:duration>12.0</gx:duration></gx:Wait><gx:AnimatedUpdate><gx:duration>0.5</gx:duration><Update><targetHref/><Change><Placemark targetId="Lanzarote"><gx:balloonVisibility>0</gx:balloonVisibility></Placemark></Change></Update></gx:AnimatedUpdate><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>0</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>10</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>20</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>30</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>40</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>50</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>60</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>70</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>80</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>90</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>100</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>110</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>120</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>130</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>140</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>150</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>160</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>170</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>180</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>190</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>200</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>210</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>220</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>230</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>240</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>250</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>260</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>270</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>280</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>290</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>300</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>310</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>320</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>330</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>340</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:FlyTo><gx:duration>0.85</gx:duration><gx:flyToMode>smooth</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>350</heading><tilt>70</tilt><range>2000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo><gx:Wait><gx:duration>1.0</gx:duration></gx:Wait><gx:FlyTo><gx:duration>8.0</gx:duration><gx:flyToMode>bounce</gx:flyToMode><LookAt><longitude>-13.605278</longitude><latitude>28.945556</latitude><altitude>0</altitude><heading>0</heading><tilt>0</tilt><range>10000000</range><altitudeMode>relativeToGround</altitudeMode></LookAt></gx:FlyTo></gx:Playlist></gx:Tour><Folder id="features"><name>Features</name><Style><ListStyle><listItemType>checkHideChildren</listItemType></ListStyle></Style><Placemark id="Barcelona"><name>BARCELONA</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;BARCELONA–EL PRAT AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/T1%20Prat%20Aitor%20Agirregabiria.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Barcelona&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1916&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;44.154.693&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;307.864&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>2.078333,41.296944,50</coordinates></Point></Placemark><Placemark id="Almería"><name>ALMERÍA</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;ALMERÍA AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Nueva%20terminal%20Almer%C3%ADa.JPG' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Almería&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1968&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;44.154.693&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;307.864&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-2.37,36.843888888,50</coordinates></Point></Placemark><Placemark id="Mallorca"><name>MALLORCA</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;PALMA DE MALLORCA AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Aeropuerto%20PMI.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Mallorca&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1960&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;26.253.882&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;197.639&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>2.738808333,39.551675,50</coordinates></Point></Placemark><Placemark id="Málaga"><name>MÁLAGA</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;MÁLAGA AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Malaga%20Airport.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Málaga&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1946&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;16.672.776&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;123.700&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-4.499167,36.675,50</coordinates></Point></Placemark><Placemark id="Tenerife"><name>TENERIFE</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;TENERIFE SOUTH AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Aeropuerto%20de%20Tenerife%20Sur.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Tenerife&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1978&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;10.472.404&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;58.461&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-16.5725,28.044444444,50</coordinates></Point></Placemark><Placemark id="Alicante"><name>ALICANTE</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;ALICANTE AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Alicante%20airport.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Alicante&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1967&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;12.344.945&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;87.113&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-0.558055555,38.282222222,50</coordinates></Point></Placemark><Placemark id="Tenerife"><name>TENERIFE</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;TENERIFE NORTH AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Plataforma%20tfn.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Tenerife&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1946&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;10.472.404&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;58.461&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-16.345913888,28.488047222,50</coordinates></Point></Placemark><Placemark id="Gran_Canaria"><name>GRAN CANARIA</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;GRAN CANARIA AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Airport-LPA.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Gran Canaria&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1930&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;12.093.645&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;111.996&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-15.386666666,27.931944444,50</coordinates></Point></Placemark><Placemark id="Sevilla"><name>SEVILLA</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;SAN PABLO AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/LEZL.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Sevilla&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1919&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;3.884.146&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;42.380&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-5.898889,37.418056,50</coordinates></Point></Placemark><Placemark id="Lanzarote"><name>LANZAROTE</name><description>&lt;body style="width:450px;"&gt;
+&lt;table class="container" width='400' border-spacing='0px' border='5' cellspacing='6' cellpadding='5'&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;h1&gt;&lt;font color='#ffffff'&gt;LANZAROTE AIRPORT&lt;/font&gt;&lt;/h1&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2' align='center'&gt; 
+  &lt;img src='http://commons.wikimedia.org/wiki/Special:FilePath/Arrecife-Airport.jpg' alt='picture' width='400' height='280' /&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt;&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;City:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;Lanzarote&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Opening year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;1936&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Passangers last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;5.883.039&lt;/font&gt; 
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;tr&gt; 
+&lt;td colspan='2'&gt; 
+  &lt;font size='4'&gt;&lt;b&gt;Aircraft movements last year:&lt;/b&gt;&lt;/font&gt; 
+  &lt;font size='4'&gt;49.575&lt;/font&gt;
+&lt;/td&gt; 
+&lt;/tr&gt; 
+&lt;/table&gt;
+&lt;/body&gt;
+&lt;style&gt;
+
+body {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#FFFFFF;
+  background-color:#FFB74D;
+}
+
+h1 {
+  font-size:28px;
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #4DC3FA;
+}
+
+h3 {
+  font-size:1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #ffffff;
+}
+
+h2 a {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.blue { color: #185875; }
+.yellow { color: #FFF842; }
+
+.container td {
+  font-weight: normal;
+  font-size: 1em;
+  -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+  -moz-box-shadow: 0 2px 2px -2px #0E1119;
+  box-shadow: 0 2px 2px -2px #0E1119;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 20%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+/* Background-color of the odd rows */
+.container tr:nth-child(odd) {
+  background-color: #000000;
+}
+
+/* Background-color of the even rows */
+.container tr:nth-child(even) {
+  background-color: #000000;
+}
+
+.container th {
+  background-color: #ffffff;
+}
+
+/* lletra info */
+.container td:first-child { color: #F57C00; }
+
+
+&lt;/style&gt;
+</description><styleUrl>#stylename</styleUrl><Point><extrude>0</extrude><altitudeMode>relativeToGround</altitudeMode><coordinates>-13.605278,28.945556,50</coordinates></Point></Placemark></Folder></Document></kml>
